@@ -1,0 +1,16 @@
+{
+    "name": "Knowledge Base - Home for Notes and Docs",
+    "short_name": "Knowledge Base",
+    "description": "A private, local-first workspace to save notes and markdown docs through a chat-style interface. Fully client-side with projects, markdown, and voice support.",
+    "start_url": "/knowledge-base/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#7c3aed",
+    "icons": [
+        {
+            "src": "/knowledge-base/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}

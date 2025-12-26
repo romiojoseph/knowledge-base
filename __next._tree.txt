@@ -1,0 +1,5 @@
+:HL["/knowledge-base/_next/static/chunks/333440230a3be12c.css","style"]
+:HL["/knowledge-base/_next/static/chunks/57a92349d8dafbb9.css","style"]
+:HL["/knowledge-base/_next/static/chunks/71b08947cba68a5d.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap","style"]
+0:{"buildId":"ZcyGWWl_zj-MJZ5YXEL7C","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
